@@ -156,7 +156,7 @@ const ui = {
   nav_contact: { ar: "تواصل معنا", en: "Contact Us" },
   nav_about: { ar: "عن المكتب", en: "About Us" },
   services_tag: { ar: "خدماتنا", en: "Our Services" },
-  services_heading: { ar: "مجالات الممارسة القانونية", en: "Areas of Legal Practice" },
+  services_heading: { ar: "الخدمات", en: "Areas of Legal Practice" },
   consult_tag: { ar: "طلب استشارة قانونية مدفوعة", en: "Request a Paid Legal Consultation" },
   consult_heading: { ar: "طلب استشارة قانونية مدفوعة", en: "Request a Paid Legal Consultation" },
   label_name: { ar: "الاسم الكامل", en: "Full Name" },
